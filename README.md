@@ -75,7 +75,7 @@ The project follows Model-View-ViewModel architecture.
 - **Service:** Handles remote API communication.
 - **Cache:** Handles local employee data persistence.
 
-See the architecture diagram in the project documentation.
+
 
 ## API
 
@@ -88,8 +88,6 @@ Base endpoint:
 The application uses the users endpoint for employee listing and the search endpoint for remote search.
 
 ## Screenshots
-
-Add application screenshots to the `Screenshots/` directory.
 
 | Screen | Screenshot |
 
