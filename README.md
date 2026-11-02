@@ -92,20 +92,14 @@ The application uses the users endpoint for employee listing and the search endp
 Add application screenshots to the `Screenshots/` directory.
 
 | Screen | Screenshot |
+
 <img width="386" height="763" alt="Screenshot 2026-11-02 at 1 30 55 PM" src="https://github.com/user-attachments/assets/c963f4e3-a40e-4529-869f-4d0d23c9ab4d" />
-
 <img width="393" height="761" alt="Screenshot 2026-11-02 at 1 31 17 PM" src="https://github.com/user-attachments/assets/e0f84533-6073-42e3-9513-db26251dcaf0" />
-
 <img width="384" height="773" alt="Screenshot 2026-11-02 at 1 31 47 PM" src="https://github.com/user-attachments/assets/c50993a6-05ee-415a-aad1-a0bdf425d28e" />
-
 <img width="384" height="809" alt="Screenshot 2026-11-02 at 1 32 23 PM" src="https://github.com/user-attachments/assets/c65d16f1-5427-4037-9ff4-165e327497a4" />
-
 <img width="220" height="221" alt="Screenshot 2026-11-02 at 1 32 45 PM" src="https://github.com/user-attachments/assets/39929d9b-ada7-43af-be5e-bee11291e8aa" />
-
 <img width="236" height="263" alt="Screenshot 2026-11-02 at 1 33 02 PM" src="https://github.com/user-attachments/assets/8969bd6e-efe1-48ae-8f69-9af67c6c7362" />
-
 <img width="219" height="311" alt="Screenshot 2026-11-02 at 1 33 26 PM" src="https://github.com/user-attachments/assets/b7b89d3d-7d2f-4402-be38-3b6f3db974d6" />
-
 <img width="392" height="779" alt="Screenshot 2026-11-02 at 1 33 41 PM" src="https://github.com/user-attachments/assets/7f8bdc60-5769-4468-9a7e-314c1c8d2cd3" />
 
 
