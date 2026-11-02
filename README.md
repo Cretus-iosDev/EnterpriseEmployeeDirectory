@@ -139,6 +139,6 @@ No API key is required for the configured DummyJSON endpoint.
 
 ## Author
 
-**iOS Developer**
+**Rutik-Maraskolhe-iOS-Developer**
 
 Built as a portfolio project to demonstrate native iOS development, UIKit, MVVM, networking, persistence, and automated testing.
