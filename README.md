@@ -139,4 +139,4 @@ No API key is required for the configured DummyJSON endpoint.
 
 **Rutik-Maraskolhe-iOS-Developer**
 
-Built as a portfolio project to demonstrate native iOS development, UIKit, MVVM, networking, persistence, and automated testing.
+Built as a project to demonstrate native iOS development, UIKit, MVVM, networking, persistence, and automated testing.
